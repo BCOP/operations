@@ -38,3 +38,12 @@ This guide aims to structure and direct your journey through the formation and g
 
 * [Issue Tracking Systems](Issue_Tracking_Systems.md)
 * [Configuration Monitoring](Configuration_Monitoring.md)
+
+### Ministry of Foreign Affairs
+
+#### Peering Coordination
+
+In the world of autonomous systems, peering coordination is the art of diplomacy. Being a broad topic covering the very essence of relationships between virtual sovereigns, fairly extensive research and resources are available on the subject. Few of them, however, are capable of replacing the intuition of a seasoned peering coordinator and capacity planner. As such, this art is still best learned through apprenticeship or ample practice.
+
+* [DrPeering.net : Resources to make strategic peering decisions.](http://drpeering.net/index.php)
+* [The Art of Peering: The Peering Playbook - Internet Society](http://www.internetsociety.org/sites/default/files/norton3_20100811.pdf)
