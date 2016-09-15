@@ -30,7 +30,7 @@ Even in partially or fully automated ASes, however, configuration monitoring sys
 ### Do:
 * Archive your ASes configuration, as well as configuration of end-user CPEs. Consider offering configuration monitoring as a service in a service provider environment.
 
-* Archive full and usable configuration including passwords if you operate configuration monitoring in a secure environment and backed by secure storage - while removing passwords and other sensitive information from archived configuration may appeal appealing at first, it considerably complicates the process of utilizing the archive as a backup of last resort.
+* Archive full and usable configuration including passwords if you operate configuration monitoring in a secure environment and backed by secure storage. Removing passwords and other sensitive information from archived configuration may appear appealing at first, but doing so considerably complicates the process of utilizing the archive as a backup of last resort.
 
 ### Don't:
 * Don't provide the configuration monitoring system an unrestricted administrative account on network elements. Instead, create a dedicated read-only account that allows configuration harvesting but prohibits changes. The same account can be reused for additional information gathering interfaces such as a looking glass or CLI route server access.
