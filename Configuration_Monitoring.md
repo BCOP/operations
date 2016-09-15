@@ -8,7 +8,7 @@ The presence of a configuration monitoring system in a modern, fully-automated, 
 
 Few ASes, however, operate completely within such perfectly controlled conditions, and even under such conditions, configuration monitoring may offer some benefits.
 
-For ASes employing artisan configuration (operator written, often on the device itself), the advantages of configuration archiving are numerous:
+For ASes employing artisan configuration (operator written, often on the device itself), the advantages of configuration monitoring are numerous:
 
 * Provides a backup of network elements configuration for disaster recovery
 * Creates a central archive of configuration files for further processing
