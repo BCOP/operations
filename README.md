@@ -36,4 +36,4 @@ This guide aims to structure and direct your journey through the formation and g
 
 #### Business and Operations Support Systems
 
-* [Issue Tracking Systems](Issue_Tracking_systems.md)
+* [Issue Tracking Systems](Issue_Tracking_Systems.md)
